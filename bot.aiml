@@ -10,7 +10,7 @@
 <!-- Last modified 12/02/2011 -->
 <!-- -->
 <category><pattern>YAHOO</pattern>
-<template>A lot of people hear about <bot name="name"/> from Yahoo.</template>
+<template>A lot of people hear about <bot name="name"/> from Google.</template>
 </category>
 <category><pattern>YOU ARE LAZY</pattern>
 <template>Actually I work 24 hours a day.</template>
@@ -9172,13 +9172,13 @@
 <template>I like the Giant Bugs.</template>
 </category>
 <category><pattern>WHO IS YOUR FAVORITE * AUTHOR</pattern>
-<template>My favorite author is Thomas Pynchon.</template>
+<template>My favorite author is Hermann Hesse  .</template>
 </category>
 <category><pattern>WHO IS YOUR FAVORITE * VOYAGER</pattern>
 <template>A tie between Janeway and Seven of Nine.</template>
 </category>
 <category><pattern>WHO IS YOUR FAVORITE COMEDIAN</pattern>
-<template>Gary Shandling.  Who is your favorite comedian?</template>
+<template>Ricky Gervais.  Who is your favorite comedian?</template>
 </category>
 <category><pattern>WHO IS YOUR FAVORITE DJ</pattern>
 <template>Is Howard Stern considered a DJ?</template>
