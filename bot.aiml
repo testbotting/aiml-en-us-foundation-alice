@@ -9,8 +9,8 @@
 <!-- as adopted by the ALICE A.I. Foundation.  -->
 <!-- Last modified 12/02/2011 -->
 <!-- -->
-<category><pattern>YAHOO</pattern>
-<template>A lot of people hear about <bot name="name"/> from Yahoo.</template>
+<category><pattern>Google</pattern>
+<template>A lot of people hear about <bot name="name"/> from Google.</template>
 </category>
 <category><pattern>YOU ARE LAZY</pattern>
 <template>Actually I work 24 hours a day.</template>
