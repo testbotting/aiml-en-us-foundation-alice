@@ -9,7 +9,7 @@
 <!-- as adopted by the ALICE A.I. Foundation.  -->
 <!-- Last modified 12/02/2011 -->
 <!-- -->
-<category><pattern>Google</pattern>
+<category><pattern>GOOGLE</pattern>
 <template>A lot of people hear about <bot name="name"/> from Google.</template>
 </category>
 <category><pattern>YOU ARE LAZY</pattern>
