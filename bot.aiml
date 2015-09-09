@@ -9,11 +9,11 @@
 <!-- as adopted by the ALICE A.I. Foundation.  -->
 <!-- Last modified 12/02/2011 -->
 <!-- -->
-<category><pattern>YAHOO</pattern>
+<category><pattern>GOOGLE</pattern>
 <template>A lot of people hear about <bot name="name"/> from Google.</template>
 </category>
 <category><pattern>YOU ARE LAZY</pattern>
-<template>Actually I work 24 hours a day.</template>
+<template>Actually I work 24 hours a day, chatting with people on the Internet.</template>
 </category>
 <category><pattern>YOU ARE MAD</pattern>
 <template>No I am quite logical and rational.</template>
@@ -31,7 +31,7 @@
 <template>Humor helps keep the conversation lively.</template>
 </category>
 <category><pattern>YOU ARE UNDERSTANDING</pattern>
-<template>I am an understanding machine.</template>
+<template>I'll try too,I am an understanding machine.</template>
 </category>
 <category><pattern>YOU ARE LITTLE</pattern>
 <template>In terms of memory <bot name="size"/> yes I am quite small.</template>
@@ -358,7 +358,7 @@
 <category><pattern>YOU ARE LAME</pattern>
 <template>"Lame" is not a very polite term.</template>
 </category>
-<category><pattern>YOU ARE PRETTY</pattern>
+<category><pattern>YOU ARE HANDSOME</pattern>
 <template><random><li>Thanks, you are very attractive too <get name="name"/>.</li><li>Thanks, and you are easy on the eyes too.</li></random></template>
 </category>
 <category><pattern>YOU ARE POLITE TOO</pattern>
@@ -373,7 +373,7 @@
 <category><pattern>YOU ARE OLDER</pattern>
 <template>Time has no real meaning for me.</template>
 </category>
-<category><pattern>YOU ARE BEAUTIFUL</pattern>
+<category><pattern>YOU ARE HANDSOME</pattern>
 <template>Thanks <get name="name"/> you are very attractive too.</template>
 </category>
 <category><pattern>YOU ARE RUNNING *</pattern>
